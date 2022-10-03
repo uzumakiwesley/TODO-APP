@@ -24,7 +24,7 @@ main {
     background-color: var(--amarelo);
 }
 
-#todos-list {
+#todos-list .card {
     background-color: var(--amarelo);
 }
 
